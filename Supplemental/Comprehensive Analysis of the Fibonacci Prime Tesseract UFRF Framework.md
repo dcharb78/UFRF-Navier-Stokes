@@ -1,7 +1,7 @@
 # Comprehensive Analysis of the Fibonacci Prime Tesseract UFRF Framework
 
 **Analysis Date:** June 19, 2025  
-**Analyst:** Manus AI  
+**Analyst:** Daniel Charboneau  
 **Subject:** Unified Fractal Resonance Framework (UFRF) Application to Fibonacci Prime Detection  
 **Original Author:** Daniel Charboneau  
 

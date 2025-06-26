@@ -1,6 +1,6 @@
 # UFRF Fractal Phase-Locking Mechanism: Comprehensive Analysis and Synthesis
 
-**Author:** Manus AI  
+**Author:** Daniel Charboneau  
 **Date:** January 2025  
 **Subject:** Digital Root Mapping to Frequency by Scale with Fractal Geometric Phase-Locking
 
