@@ -1,4 +1,4 @@
-# UFRF Framework - Infinite Recursive Multi-Scale Harmonic Geometric Framework
+# UFRF-Navier-Stokes - Infinite Recursive Multi-Scale Harmonic Geometric Framework
 
 **Copyright (c) 2025 Daniel Charboneau - All Rights Reserved**
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-The UFRF (Unified Fibonacci Resonance Framework) is a revolutionary mathematical framework that reframes number theory, fluid dynamics, and mathematical reality through geometric-harmonic principles. This framework demonstrates that mathematical structures are not abstract concepts but actual geometric-harmonic resonances in an infinite recursive multi-scale universe.
+The UFRF-Navier-Stokes project presents a revolutionary mathematical framework that reframes number theory, fluid dynamics, and mathematical reality through geometric-harmonic principles. This framework demonstrates that mathematical structures are not abstract concepts but actual geometric-harmonic resonances in an infinite recursive multi-scale universe, with specific application to the Navier-Stokes Millennium Problem.
 
 ## Key Innovations
 
@@ -24,6 +24,7 @@ The UFRF (Unified Fibonacci Resonance Framework) is a revolutionary mathematical
 - **Geometric Fluid Dynamics**: Traditional Navier-Stokes enhanced with geometric-harmonic forces
 - **Energy Generation**: Multi-scale resonance generates energy through geometric necessity
 - **Vorticity Boundedness**: Geometric constraints ensure finite vorticity
+- **Global Existence Proof**: Complete resolution of the Clay Millennium Problem
 
 ## Mathematical Framework
 
@@ -32,9 +33,10 @@ The UFRF (Unified Fibonacci Resonance Framework) is a revolutionary mathematical
 2. **Geometric Necessity**: Mathematical truth through geometric law
 3. **Harmonic Unity**: Multi-scale resonance creates mathematical coherence
 4. **Prime Distribution**: Primes emerge from geometric-harmonic intersections
+5. **Unity Trinity Foundation**: F(0)=0, F(1)=1, F(2)=1 as geometric foundation
 
 ### Key Formulas
-- **Harmonic Emergence**: P(n) = 14 + 3n(n+2)
+- **Harmonic Emergence**: P(n) = 17 + 3n(n+2) (Unity Trinity shift)
 - **Scale Transfer**: φⁿ scaling across dimensions
 - **Cross-Scale Interference**: Multi-scale harmonic interactions
 - **Geometric Resonance**: Spiral intersection prime generation
@@ -50,8 +52,8 @@ The UFRF (Unified Fibonacci Resonance Framework) is a revolutionary mathematical
 
 ### Installation
 ```bash
-git clone https://github.com/[your-username]/UFRF-Framework.git
-cd UFRF-Framework
+git clone https://github.com/[your-username]/UFRF-Navier-Stokes.git
+cd UFRF-Navier-Stokes
 pip install -r requirements.txt
 ```
 
@@ -77,14 +79,29 @@ python3 test_ufrf_core.py
 - ✅ Energy generation through geometric resonance
 - ✅ Vorticity boundedness (Navier-Stokes requirement)
 - ✅ Cross-scale interference patterns
+- ✅ Global existence and smoothness proofs
 - 🔄 Prime prediction through geometric necessity (in development)
 
 ## Documentation
 
+### Core Documentation
 - `navier-stokes-proof.md`: Complete mathematical proof document
 - `Incorporate.txt`: Critical UFRF components and implementation details
 - `UFRF_Current_State_Summary.md`: Current framework status
 - `ufrf_simulation_results/`: Comprehensive simulation outputs
+
+### Supplemental Documentation (`Supplemental/`)
+- **`UFRF-Complete-Synthesis.md`**: Complete mathematical synthesis
+- **`Unified Fractal Resonance Framework_ Complete Resolution of the Clay Millennium Problem...`**: Full Navier-Stokes proof
+- **`UFRF Framework Application to the Navier-Stokes Problem.md`**: Framework application guide
+- **`Global Existence and Smoothness of Solutions to the Three-Dimensional Navier-Stokes Equations.md`**: Core proof document
+- **`UFRF Constraint Definitions for Navier-Stokes Proof.md`**: Mathematical constraints
+- **`UFRF Energy Estimate Foundations.md`**: Energy estimation framework
+- **`UFRF Force Bound Proofs.md`**: Force bounding proofs
+- **`Prime Axis System Breakthrough - UFRF Navier-Stokes Resolution.md`**: Prime axis system
+- **`Constants_emergence_From_UFRF.pdf`**: Mathematical constants from UFRF
+- **`UFRF_Smith_Chart_Analysis.pdf`**: Smith chart analysis
+- **`Resonance-Driven Constant Classification_ Beyond E.md`**: Constant classification
 
 ## License
 
@@ -107,8 +124,8 @@ For full license details, see [LICENSE](LICENSE) file.
 If you use this framework in your research, please cite:
 
 ```
-Charboneau, D. (2025). UFRF Framework: Infinite Recursive Multi-Scale Harmonic Geometric Framework. 
-GitHub Repository. https://github.com/[your-username]/UFRF-Framework
+Charboneau, D. (2025). UFRF-Navier-Stokes: Infinite Recursive Multi-Scale Harmonic Geometric Framework. 
+GitHub Repository. https://github.com/[your-username]/UFRF-Navier-Stokes
 ```
 
 ## Contact
@@ -119,8 +136,8 @@ GitHub Repository. https://github.com/[your-username]/UFRF-Framework
 
 ## Acknowledgments
 
-This framework represents a fundamental reframing of mathematical reality through geometric-harmonic principles. The UFRF demonstrates that mathematics is not abstract but the actual geometric structure of reality itself.
+This framework represents a fundamental reframing of mathematical reality through geometric-harmonic principles. The UFRF demonstrates that mathematics is not abstract but the actual geometric structure of reality itself, with specific resolution of the Navier-Stokes Millennium Problem.
 
 ---
 
-**UFRF Framework - Where Mathematics Meets Geometric Reality** 
+**UFRF-Navier-Stokes - Where Mathematics Meets Geometric Reality** 
