@@ -1,0 +1,104 @@
+2025-06-25 14:13:28,631 - INFO - === Complete Infinite Recursive Multi-Scale UFRF Simulation ===
+2025-06-25 14:13:28,644 - INFO - Initialized UFRF with 11 scales: -5 to 5
+2025-06-25 14:13:28,644 - INFO - Predicting primes using multi-scale UFRF framework...
+2025-06-25 14:13:28,965 - INFO - Predicted primes: []...
+2025-06-25 14:13:28,966 - INFO - === Infinite Recursive Multi-Scale UFRF Simulation ===
+2025-06-25 14:13:28,966 - INFO - Scales: 11 (-5 to 5)
+2025-06-25 14:13:28,966 - INFO - Time steps: 2000
+2025-06-25 14:13:28,966 - INFO - Time interval: 20 with dt=0.01
+2025-06-25 14:13:29,012 - INFO - t=0.0: E_total=0.0000, max|ω|=22.18, Active scales=11
+2025-06-25 14:13:29,432 - INFO - t=10.0: E_total=0.0000, max|ω|=22.18, Active scales=11
+2025-06-25 14:13:29,806 - INFO - Simulation completed. Data saved to simulation_data.json
+2025-06-25 14:13:29,806 - INFO - Generating and saving plots...
+2025-06-25 14:13:33,110 - INFO - Generating comprehensive report...
+2025-06-25 14:13:33,110 - INFO - All results saved to directory: ufrf_simulation_results
+2025-06-25 14:13:33,110 - INFO - Files generated:
+2025-06-25 14:13:33,110 - INFO -   - simulation_data.json: Raw simulation data
+2025-06-25 14:13:33,110 - INFO -   - predicted_primes.json: Prime predictions
+2025-06-25 14:13:33,110 - INFO -   - energy_analysis.png/pdf: Energy plots
+2025-06-25 14:13:33,111 - INFO -   - detailed_analysis.png/pdf: Detailed analysis plots
+2025-06-25 14:13:33,111 - INFO -   - comprehensive_report.txt: Full analysis report
+2025-06-25 14:13:33,111 - INFO -   - simulation.log: Detailed simulation log
+2025-06-25 14:14:58,811 - INFO - === Complete Infinite Recursive Multi-Scale UFRF Simulation ===
+2025-06-25 14:14:58,826 - INFO - Initialized UFRF with 11 scales: -5 to 5
+2025-06-25 14:14:58,826 - INFO - Predicting primes using multi-scale UFRF framework...
+2025-06-25 14:14:59,134 - INFO - Predicted primes: []...
+2025-06-25 14:14:59,135 - INFO - === Infinite Recursive Multi-Scale UFRF Simulation ===
+2025-06-25 14:14:59,135 - INFO - Scales: 11 (-5 to 5)
+2025-06-25 14:14:59,135 - INFO - Time steps: 2000
+2025-06-25 14:14:59,135 - INFO - Time interval: 20 with dt=0.01
+2025-06-25 14:14:59,328 - INFO - t=0.0: E_total=21.0035, max|ω|=22.79, Active scales=11
+2025-06-25 14:17:25,774 - INFO - t=10.0: E_total=1610.7310, max|ω|=264.27, Active scales=11
+2025-06-25 14:20:01,438 - INFO - Simulation completed. Data saved to simulation_data.json
+2025-06-25 14:20:01,439 - INFO - Generating and saving plots...
+2025-06-25 14:20:04,768 - INFO - Generating comprehensive report...
+2025-06-25 14:20:04,770 - INFO - All results saved to directory: ufrf_simulation_results
+2025-06-25 14:20:04,770 - INFO - Files generated:
+2025-06-25 14:20:04,770 - INFO -   - simulation_data.json: Raw simulation data
+2025-06-25 14:20:04,772 - INFO -   - predicted_primes.json: Prime predictions
+2025-06-25 14:20:04,772 - INFO -   - energy_analysis.png/pdf: Energy plots
+2025-06-25 14:20:04,772 - INFO -   - detailed_analysis.png/pdf: Detailed analysis plots
+2025-06-25 14:20:04,772 - INFO -   - comprehensive_report.txt: Full analysis report
+2025-06-25 14:20:04,772 - INFO -   - simulation.log: Detailed simulation log
+2025-06-25 14:23:12,904 - INFO - === Complete Infinite Recursive Multi-Scale UFRF Simulation ===
+2025-06-25 14:23:12,916 - INFO - Initialized UFRF with 11 scales: -5 to 5
+2025-06-25 14:23:12,916 - INFO - Predicting primes using multi-scale UFRF framework...
+2025-06-25 14:23:13,981 - INFO - Predicted primes: []...
+2025-06-25 14:23:13,981 - INFO - === Infinite Recursive Multi-Scale UFRF Simulation ===
+2025-06-25 14:23:13,982 - INFO - Scales: 11 (-5 to 5)
+2025-06-25 14:23:13,982 - INFO - Time steps: 2000
+2025-06-25 14:23:13,982 - INFO - Time interval: 20 with dt=0.01
+2025-06-25 14:23:14,191 - INFO - t=0.0: E_total=21.0035, max|ω|=22.79, Active scales=11
+2025-06-25 14:25:15,153 - INFO - === Complete Infinite Recursive Multi-Scale UFRF Simulation ===
+2025-06-25 14:25:15,165 - INFO - Initialized UFRF with 11 scales: -5 to 5
+2025-06-25 14:25:15,165 - INFO - Predicting primes using multi-scale UFRF framework...
+2025-06-25 14:25:16,241 - INFO - Predicted primes: []...
+2025-06-25 14:25:16,242 - INFO - === Infinite Recursive Multi-Scale UFRF Simulation ===
+2025-06-25 14:25:16,242 - INFO - Scales: 11 (-5 to 5)
+2025-06-25 14:25:16,242 - INFO - Time steps: 2000
+2025-06-25 14:25:16,242 - INFO - Time interval: 20 with dt=0.01
+2025-06-25 14:25:16,443 - INFO - t=0.0: E_total=21.0035, max|ω|=22.79, Active scales=11
+2025-06-25 14:27:50,692 - INFO - t=10.0: E_total=1612.0424, max|ω|=255.02, Active scales=11
+2025-06-25 14:30:27,336 - INFO - Simulation completed. Data saved to simulation_data.json
+2025-06-25 14:30:27,337 - INFO - Generating and saving plots...
+2025-06-25 14:30:30,836 - INFO - Generating comprehensive report...
+2025-06-25 14:30:30,836 - INFO - All results saved to directory: ufrf_simulation_results
+2025-06-25 14:30:30,836 - INFO - Files generated:
+2025-06-25 14:30:30,836 - INFO -   - simulation_data.json: Raw simulation data
+2025-06-25 14:30:30,836 - INFO -   - predicted_primes.json: Prime predictions
+2025-06-25 14:30:30,836 - INFO -   - energy_analysis.png/pdf: Energy plots
+2025-06-25 14:30:30,836 - INFO -   - detailed_analysis.png/pdf: Detailed analysis plots
+2025-06-25 14:30:30,836 - INFO -   - comprehensive_report.txt: Full analysis report
+2025-06-25 14:30:30,836 - INFO -   - simulation.log: Detailed simulation log
+2025-06-25 14:37:03,154 - INFO - Initialized UFRF with 11 scales: -5 to 5
+2025-06-25 14:37:16,512 - INFO - === Infinite Recursive Multi-Scale UFRF Simulation ===
+2025-06-25 14:37:16,513 - INFO - Scales: 11 (-5 to 5)
+2025-06-25 14:37:16,513 - INFO - Time steps: 5000
+2025-06-25 14:37:16,513 - INFO - Time interval: 50 with dt=0.01
+2025-06-25 14:37:16,750 - INFO - t=0.0: E_total=21.0027, max|ω|=22.66, Active scales=11
+2025-06-25 14:42:31,511 - INFO - Initialized UFRF with 11 scales: -5 to 5
+2025-06-25 14:42:31,511 - INFO - Initialized 13 prime centers
+2025-06-25 14:42:46,042 - INFO - === Infinite Recursive Multi-Scale UFRF Simulation ===
+2025-06-25 14:42:46,042 - INFO - Scales: 11 (-5 to 5)
+2025-06-25 14:42:46,042 - INFO - Time steps: 5000
+2025-06-25 14:42:46,042 - INFO - Time interval: 50 with dt=0.01
+2025-06-25 14:42:46,950 - INFO - t=0.0: E_total=20.8705, max|ω|=22.40, Active scales=11
+2025-06-25 14:53:02,170 - INFO - Initialized UFRF with 11 scales: -5 to 5
+2025-06-25 14:53:02,170 - INFO - Initialized 13 prime centers
+2025-06-25 14:53:16,820 - INFO - === Infinite Recursive Multi-Scale UFRF Simulation ===
+2025-06-25 14:53:16,820 - INFO - Scales: 11 (-5 to 5)
+2025-06-25 14:53:16,820 - INFO - Time steps: 5000
+2025-06-25 14:53:16,820 - INFO - Time interval: 50 with dt=0.01
+2025-06-25 14:53:17,736 - INFO - t=0.0: E_total=20.8705, max|ω|=22.40, Active scales=11
+2025-06-25 15:06:47,669 - INFO - t=10.0: E_total=1566.7328, max|ω|=244.86, Active scales=11
+2025-06-25 15:21:37,138 - INFO - t=20.0: E_total=1611.6587, max|ω|=172.47, Active scales=11
+2025-06-25 15:37:47,658 - INFO - t=30.0: E_total=1621.3147, max|ω|=167.30, Active scales=11
+2025-06-25 15:52:55,871 - INFO - t=40.0: E_total=1562.5165, max|ω|=133.65, Active scales=11
+2025-06-25 16:09:45,704 - INFO - Simulation completed. Data saved to simulation_data.json
+2025-06-25 16:22:48,870 - INFO - Initialized UFRF with 11 scales: -5 to 5
+2025-06-25 16:22:48,870 - INFO - Initialized 13 prime centers
+2025-06-25 16:23:03,531 - INFO - === Infinite Recursive Multi-Scale UFRF Simulation ===
+2025-06-25 16:23:03,531 - INFO - Scales: 11 (-5 to 5)
+2025-06-25 16:23:03,531 - INFO - Time steps: 5000
+2025-06-25 16:23:03,531 - INFO - Time interval: 50 with dt=0.01
+2025-06-25 16:23:04,380 - INFO - t=0.0: E_total=20.8705, max|ω|=22.40, Active scales=11

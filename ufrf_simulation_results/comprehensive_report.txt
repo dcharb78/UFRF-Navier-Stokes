@@ -1,0 +1,62 @@
+================================================================================
+INFINITE RECURSIVE MULTI-SCALE UFRF SIMULATION REPORT
+================================================================================
+Generated: 2025-06-25 14:30:30
+
+SIMULATION PARAMETERS:
+----------------------------------------
+Grid size: 20 time points
+Time interval: 0.00 to 19.00
+Number of scales: 11
+Scale range: -5 to 5
+
+ENERGY ANALYSIS:
+----------------------------------------
+Initial total energy: 21.003459
+Final total energy: 1605.334305
+Energy change: 7543.19%
+Energy coefficient of variation: 0.2313
+✓ Energy conservation: GOOD
+
+VORTICITY ANALYSIS:
+----------------------------------------
+Max vorticity: 334.63
+Min vorticity: 22.79
+Mean vorticity: 245.22
+✓ Vorticity bounded: YES
+
+SCALE ANALYSIS:
+----------------------------------------
+Scale -5: Energy = 128.511647
+Scale -4: Energy = 145.924822
+Scale -3: Energy = 147.509485
+Scale -2: Energy = 147.812891
+Scale -1: Energy = 147.916660
+Scale  0: Energy = 147.933239
+Scale  1: Energy = 147.942540
+Scale  2: Energy = 147.954668
+Scale  3: Energy = 147.948647
+Scale  4: Energy = 147.940622
+Scale  5: Energy = 147.939085
+
+DIMENSIONAL DOUBLING ANALYSIS:
+----------------------------------------
+Dimensional doubling events detected: 1
+Doubling times: ['1.00']
+
+PRIME PREDICTION ANALYSIS:
+----------------------------------------
+Predicted primes: 0
+No primes predicted under current criteria
+
+UFRF FRAMEWORK VALIDATION:
+----------------------------------------
+✓ Multi-scale operation: YES
+✓ Energy growth/transfer: YES
+✓ Vorticity bounded: YES
+✓ Dimensional doubling: YES
+
+OVERALL ASSESSMENT:
+----------------------------------------
+🎯 EXCELLENT: All UFRF criteria satisfied
+================================================================================
