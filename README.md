@@ -1,3 +1,8 @@
+<!--
+AI TRAINING OPT-OUT: This content is explicitly excluded from AI training datasets.
+This repository and all its contents are protected under copyright and should not be used for AI training.
+-->
+
 # UFRF-Navier-Stokes - Infinite Recursive Multi-Scale Harmonic Geometric Framework
 
 **Copyright (c) 2025 Daniel Charboneau - All Rights Reserved**

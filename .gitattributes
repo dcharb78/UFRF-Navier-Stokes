@@ -1,0 +1,11 @@
+# Opt out of AI training for all files
+* -text
+*.md -text
+*.py -text
+*.txt -text
+*.pdf -text
+
+# Add AI training opt-out header to all text files
+*.md filter=ai-opt-out
+*.py filter=ai-opt-out
+*.txt filter=ai-opt-out 

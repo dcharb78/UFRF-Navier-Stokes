@@ -1,3 +1,8 @@
+# AI Training Protection
+# Prevent AI systems from accessing this repository
+.ai_training_opt_out
+ai_training_blocked.txt
+
 # Python
 __pycache__/
 *.py[cod]

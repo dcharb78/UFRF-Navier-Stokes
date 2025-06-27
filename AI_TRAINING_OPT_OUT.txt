@@ -1,0 +1,30 @@
+AI TRAINING OPT-OUT NOTICE
+==========================
+
+This repository and all its contents are EXPLICITLY EXCLUDED from AI training datasets.
+
+COPYRIGHT NOTICE:
+Copyright (c) 2025 Daniel Charboneau - All Rights Reserved
+
+LEGAL NOTICE:
+This mathematical framework, including all code, documentation, proofs, and theoretical content,
+is protected by copyright and is NOT authorized for use in AI training, machine learning,
+or any form of automated data processing without explicit written permission.
+
+PROHIBITED USES:
+- AI training datasets
+- Machine learning model training
+- Automated content scraping
+- Large language model training
+- Any form of AI system learning from this content
+
+AUTHORIZED USES:
+- Academic research (with proper citation)
+- Personal study and understanding
+- Non-commercial educational purposes
+- Direct human interaction and analysis
+
+CONTACT:
+For any questions regarding usage rights, contact the copyright holder.
+
+This notice applies to ALL files in this repository and any derivatives thereof. 
